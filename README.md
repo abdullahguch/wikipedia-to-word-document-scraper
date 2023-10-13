@@ -25,7 +25,7 @@ python script_name.py
 
 5. Enter the Wikip  edia page title when prompted.
 
-6. The script will fetch the Wikipedia page content and create a Word document named `output.docx` in the same directory.
+6. The script will fetch the Wikipedia page content and create a Word document.
 
 ## Customization
 
